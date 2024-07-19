@@ -1,0 +1,4 @@
+num1=input("what is the first num u want to add")
+num2=input("what is the second num u want to add")
+total=float(num1)+float(num2)#INT IS WHOLE NUM AND FLOAT IS DEECIMAL
+print(total)

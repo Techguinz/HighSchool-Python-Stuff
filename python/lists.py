@@ -1,0 +1,5 @@
+names=("alfie","beth","Cindy","Bob")
+print("come to the front of the class",names[2],"and",names[-1])
+print("YOU ARE GETTING ISOLATION", names[2],"and",names[-1])
+print("hello there how r u today?")
+print("hello everyone how r u today i am so tired how r u today... omg what the fuck do you want to do?")

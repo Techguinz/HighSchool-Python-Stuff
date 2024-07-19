@@ -1,0 +1,12 @@
+.upper()#turns characters to uppercase and .isupper() #tells u if it  uppercase or lower case in boolean same with .islower()
+\n #separates lines
+len((..........))# outputs length which is 10 
+[] in string determine a character starting from o+
+phrase="Penguin"
+if u put .index for letter such as... Print(phrase.index("P"))#tells u that it is in position 0 and where it starts
+phrase="Penguin"
+print(phrase.replace("Penguin", "Otter"))                  .replace
+
+u can determine a list using square brackets
+
+
